@@ -2,7 +2,7 @@
 # Hello, I am  Viktoria👋 and I am frontend developer 👩‍💻
 
 
-+ __Hard Skills__: React, Javascript, TypeScript, Redux Toolkit, HTML, CSS, Git, Figma
++ __Hard Skills__: React, Javascript, TypeScript, Redux Toolkit, HTML, CSS, SCSS, Git, Figma
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,typescript,redux,html,css,sass,vite,figma)](https://skillicons.dev)
 
