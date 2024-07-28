@@ -12,6 +12,7 @@
 
 + __My contacts__: 
      + email: naifviktoria@gmail.com
+     + telegram: @NaifViktoria
      
 + __Codewars__:![Codewars](https://www.codewars.com/users/Gus__/badges/micro)
 
