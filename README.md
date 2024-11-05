@@ -16,5 +16,5 @@
      + telegram: @NaifViktoria
      
 + __Codewars__:![Codewars](https://www.codewars.com/users/Gus__/badges/micro)
-+  __LeetCode__:![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Mangusteen)
++  __LeetCode__:[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Mangusteen&theme=dark)](https://github.com/Mangusteen/github-readme)
 
