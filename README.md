@@ -6,6 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,typescript,redux,html,css,sass,tailwind,firebase,vite,figma)](https://skillicons.dev)
 
+![](https://komarev.com/ghpvc/?username=Mangusteen)
 
 + __English__: B2+
 
@@ -15,4 +16,5 @@
      + telegram: @NaifViktoria
      
 + __Codewars__:![Codewars](https://www.codewars.com/users/Gus__/badges/micro)
++  __LeetCode__:![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Mangusteen)
 
