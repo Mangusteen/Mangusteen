@@ -3,9 +3,9 @@
 
 
 + __Hard Skills__:
-  __Backend__: Node.js, TypeScript, Nest.js, PostgreSQL, Prisma
-[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,nestjs,postgres,prisma)](https://skillicons.dev)
-  __Frontend__: React, TypeScript, Javascript, Redux Toolkit, HTML, CSS, SCSS, Tailwind, Firebase, Vite, Figma
++ __Backend__: Node.js, TypeScript, Nest.js, PostgreSQL, Docker, Prisma
+[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,nestjs,postgres,docker,prisma)](https://skillicons.dev)
++__Frontend__: React, TypeScript, Javascript, Redux Toolkit, HTML, CSS, SCSS, Tailwind, Firebase, Vite, Figma
 
 [![My Skills](https://skillicons.dev/icons?i=react,typescript,js,redux,html,css,sass,tailwind,firebase,vite,figma)](https://skillicons.dev)
 
