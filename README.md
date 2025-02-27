@@ -1,10 +1,13 @@
 
-# Hello, I am  Viktoria👋 and I am frontend developer 👩‍💻
+# Hello, I am  Viktoria👋 and I am fullstack developer 👩‍💻
 
 
-+ __Hard Skills__: React, Javascript, TypeScript, Redux Toolkit, HTML, CSS, SCSS, Tailwind, Firebase, Vite, Git, Figma
++ __Hard Skills__:
++ __Backend__: Node.js, TypeScript, Nest.js, PostgreSQL, Prisma
++ [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,nestjs,postgres,prisma)](https://skillicons.dev)
++ __Frontend__: React, TypeScript, Javascript, Redux Toolkit, HTML, CSS, SCSS, Tailwind, Firebase, Vite, Figma
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,typescript,redux,html,css,sass,tailwind,firebase,vite,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,redux,html,css,sass,tailwind,firebase,vite,figma)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=Mangusteen)
 
