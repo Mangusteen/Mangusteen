@@ -20,7 +20,6 @@
      + email: naifviktoria@gmail.com
      + telegram: @NaifViktoria
 
-+__LeetCode__:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Mangusteen?theme=dark&font=Consolas&extension=null)](https://leetcode.com/Mangusteen/)
 + __Codewars__:![Codewars](https://www.codewars.com/users/Gus__/badges/micro)
 
