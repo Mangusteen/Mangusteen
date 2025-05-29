@@ -19,6 +19,7 @@
 + __My contacts__: 
      + email: naifviktoria@gmail.com
      + telegram: @NaifViktoria
-     
+
++__LeetCode__:[![Mangusteen's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Mangusteen&theme=dark)](https://github.com/Mangusteen/leetcode-stats)
 + __Codewars__:![Codewars](https://www.codewars.com/users/Gus__/badges/micro)
 
