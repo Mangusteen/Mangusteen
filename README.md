@@ -2,7 +2,6 @@
 # Hello, I am  Viktoria👋 and I am fullstack developer 👩‍💻
 
 
-+ __Hard Skills__:
 + __Backend__: Node.js, TypeScript, Nest.js, PostgreSQL, Docker, Prisma
   
 [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,nestjs,postgres,docker,prisma)](https://skillicons.dev)
